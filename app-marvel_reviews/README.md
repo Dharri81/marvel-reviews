@@ -1,0 +1,1 @@
+This app allows users to post reviews about Marvel films, view other users reviews, as well as edit and delete their own. IN order to install simply run bundle install to install the required gems and then run shotgun to start the server.
